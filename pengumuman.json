@@ -1,3 +1,18 @@
-{
-  "pengumuman" : "Zuhdi mau kawin"
-}
+[
+  {
+    "poster" : "BigPictureThinking.jpg",
+    "author" : "Esabi Kanagawa",
+    "waktu" : "Jumat, 02 Desember 2022, 15.12 WIB",
+    "judul" : "Developing Big Picture Thingking (and stop drowning in the details)",
+    "pesan" : "Ayo ikuti Webinar Series: 'Big Picture Thinking'. Kegiatan yang bekerja sama dengan ESBE BPS ini diselenggarakan khusus untuk para pegawai BPS di seluruh Indonesia.Acara ini bakal menjadi kesempatan berharga bagi generasi muda BPS, yang akan mengambil alih tonggak kepemimpinan BPS di masa datang, untuk belajar kepemimpinan dari sosok yang sarat pengalaman dan pengetahuan serta telah ditempa oleh masa pengabdian yang begitu panjang di BPS. Webinar ini akan berbagi pengalaman dan pengetahuan Pak Kecuk Suhariyanto selama berkarir di BPS hingga berhasil menduduki posisi puncak sebagai kepala BPS. Tentu saja, terdapat kristalisasi pengalaman dan pengetahuan yang sangat berharga dan tidak boleh dilewatkan oleh generasi muda BPS di balik capaian gemilang tersebut",
+    "kategori" : "terlama"
+  },
+  {
+    "poster" : "Sertifikat.jpg",
+    "author" : "Administrator LMS",
+    "waktu" : "Kamis, 18 Mei 2023, 12.18 WIB",
+    "judul" : "Pengumuman Pemberian Sertifikat Kursus Warkop-Indonesia X",
+    "pesan" : "",
+    "kategori" : "terbaru"
+  }
+]
