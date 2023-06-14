@@ -8,10 +8,34 @@
     "kategori" : "terlama"
   },
   {
-    "poster" : "Sertifikat.jpg",
+    "poster" : "Sertifikat10.jpg",
     "author" : "Administrator LMS",
     "waktu" : "Kamis, 18 Mei 2023, 12.18 WIB",
     "judul" : "Pengumuman Pemberian Sertifikat Kursus Warkop-Indonesia X",
+    "pesan" : "",
+    "kategori" : "terbaru"
+  },
+  {
+    "poster" : "FutureOfBigData.jpg",
+    "author" : "Administrator LMS",
+    "waktu" : "Senin, 13 Maret 2023, 16.18 WIB",
+    "judul" : "Webinar Series: 'Future Of Big Data'",
+    "pesan" : "Ayo ikuti Webinar Series: 'Future Of Big Data'. Kegiatan yang bekerja sama dengan ESBE BPS ini diselenggarakan khusus untuk para pegawai BPS di seluruh Indonesia.",
+    "kategori" : "terbaru"
+  },
+  {
+    "poster" : "Sertifikat9.jpg",
+    "author" : "Administrator LMS",
+    "waktu" : "Selasa, 18 April 2023, 19.18 WIB",
+    "judul" : "Pengumuman Pemberian Sertifikat Kursus Warkop-Indonesia IX",
+    "pesan" : "",
+    "kategori" : "terbaru"
+  },
+  {
+    "poster" : "Sertifikat10_2.jpg",
+    "author" : "Administrator LMS",
+    "waktu" : "Senin, 12 Juni 2023, 14.28 WIB",
+    "judul" : "Pengumuman Pemberian Sertifikat Kursus Warkop Periode 2 -Indonesia X",
     "pesan" : "",
     "kategori" : "terbaru"
   }
